@@ -13,4 +13,8 @@ guide on web security
 
   <img width="702" alt="Screen Shot 2025-04-22 at 12 09 44 PM" src="https://github.com/user-attachments/assets/5e118c84-2947-42ee-9379-7b70ec956743" />
 
+## XSS
+![Uploading Screen Shot 2025-04-22 at 12.11.56 PM.png…]()
+
+
 
