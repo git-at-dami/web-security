@@ -29,6 +29,13 @@ guide on web security
 <img width="751" alt="Screen Shot 2025-04-22 at 1 14 40 PM" src="https://github.com/user-attachments/assets/8fdd61b0-3dea-4991-8823-05e8ba75f5c2" />
 <img width="773" alt="Screen Shot 2025-04-22 at 1 15 30 PM" src="https://github.com/user-attachments/assets/f78c7c17-a230-4466-914d-e8b2ba65841e" />
 
+## 3rd Party Assets Vulnerabilities
+<img width="812" alt="Screen Shot 2025-04-22 at 1 25 50 PM" src="https://github.com/user-attachments/assets/20240adc-5b4b-48f6-b8b8-04122ab9b4bd" />
+
+<img width="800" alt="Screen Shot 2025-04-22 at 1 27 21 PM" src="https://github.com/user-attachments/assets/5ed7b88c-26f6-44b6-905b-8a582fa1fd0a" />
+
+
+
 
 
 
