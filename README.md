@@ -14,7 +14,8 @@ guide on web security
   <img width="702" alt="Screen Shot 2025-04-22 at 12 09 44 PM" src="https://github.com/user-attachments/assets/5e118c84-2947-42ee-9379-7b70ec956743" />
 
 ## XSS
-<img width="739" alt="Screen Shot 2025-04-22 at 12 11 56 PM" src="https://github.com/user-attachments/assets/21eda12f-cb35-4ae3-80e8-3358d0815779" />
+<img width="769" alt="Screen Shot 2025-04-22 at 12 16 54 PM" src="https://github.com/user-attachments/assets/277b049b-ff8a-4338-92fe-bd44b0423cd8" />
+
 * high percentage of websites are vulnerable
 * compromising an administrator user with xss gives full system control
 
