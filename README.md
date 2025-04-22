@@ -10,3 +10,7 @@ guide on web security
 * research system vulnerabilities
 * get a foothold in the system
 * use foothold in system to escalate to more serious attacks
+
+  <img width="702" alt="Screen Shot 2025-04-22 at 12 09 44 PM" src="https://github.com/user-attachments/assets/5e118c84-2947-42ee-9379-7b70ec956743" />
+
+
