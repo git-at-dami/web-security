@@ -19,6 +19,19 @@ guide on web security
 * high percentage of websites are vulnerable
 * compromising an administrator user with xss gives full system control
 
+## Clickjacking
+
+<img width="703" alt="Screen Shot 2025-04-22 at 1 07 10 PM" src="https://github.com/user-attachments/assets/2a159e70-e11b-485b-bec6-03c9fe6b77b3" />
+
+* It's a UI Redress Attack
+* can be used to capture keystrokes
+
+<img width="751" alt="Screen Shot 2025-04-22 at 1 14 40 PM" src="https://github.com/user-attachments/assets/8fdd61b0-3dea-4991-8823-05e8ba75f5c2" />
+<img width="773" alt="Screen Shot 2025-04-22 at 1 15 30 PM" src="https://github.com/user-attachments/assets/f78c7c17-a230-4466-914d-e8b2ba65841e" />
+
+
+
+
 
 
 
